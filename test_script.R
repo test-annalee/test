@@ -1,5 +1,3 @@
-#test script
-
-#fake code
+#this is fake code
 
 hello <- 1
